@@ -30,9 +30,12 @@
 
 ### 📌 Pinned Projects
 
-- 🔐 [User Management (JDBC + DAO)](https://github.com/unaizsiddiquii/user-management-jdbc)
+- 🔐 [springboot-jwt-security](https://github.com/unaizsiddiquii/springboot-jwt-security)
 - 🧠 [CropDeal A Microservices - Based Agriculture Marketplace](https://github.com/unaizsiddiquii/cropdeal-backend)
 - 📊 [Restaurant Fully Responsive Landing Page](https://github.com/unaizsiddiquii/restaura)
+- 🌐 [Realtime Chat Application](https://github.com/unaizsiddiquii/realtime-chat-app-springboot)
+- 🌱 [E-Commerce Application- springkart ](https://github.com/unaizsiddiquii/springkart)
+
 
 ---
 
