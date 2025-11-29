@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently building real-world backend projects using **Spring Boot** & **React.js** 
+🔭 I’m currently building real-world backend projects using **Spring Boot**  
 🌱 Currently learning **DSA with Java**, Spring Security, and React  
 💼 Passionate about solving problems & clean code architecture  
 📫 Reach me: unaiz4321@gmail.com  
@@ -12,7 +12,7 @@
 ---
 
 ### 🛠 Tech Stack
-- 💻 Java, JDBC, Hibernate, Spring Boot, React.js
+- 💻 Java, Spring Boot, Spring Data JPA
 - 🧠 SQL, MySQL  
 - 🌐 HTML, CSS, JavaScript, Tailwind CSS  
 - 🧰 Tools: Git, GitHub, Postman, IntelliJ
